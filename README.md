@@ -1,10 +1,10 @@
 <span id="topo">
 
-<p align="center"> <a href="#visao"> Visão geral </a> | <a href="#solucao">Solução proposta</a> | <a href="#backlog">Backlog</a> | <a href="#sprint">Relatório das sprints</a> | <a href="#tecnologia">Tecnologias utilizadas</a> | <a href="#time">Time</a> </p> <span id="visao"> <h2 align="center"> 🔍Visão geral </h2>
-Título do Projeto: Desenvolvimento de um novo website institucional Objetivo do Projeto: O objetivo deste projeto é desenvolver um novo website institucional para a empresa STU, a fim de melhorar a visibilidade online, atração de novos clientes e a experiência do usuário. O website deve ser responsivo, intuitivo, fácil de navegar e ter uma aparência moderna.
+<p align="center"> <a href="#visao"> Visão geral </a> | <a href="#solucao">Solução proposta</a> | <a href="#backlog">Backlog</a> | <a href="#sprint">Relatório das sprints</a> | <a href="#tecnologia">Tecnologias utilizadas</a> | <a href="#redes">Redes Sociais</a> | </p> <span id="visao"> <h2 align="center"> 🔍Visão geral </h2>
+O projeto consiste na criação de um site institucional moderno e intuitivo para a STU, com o objetivo de aumentar sua visibilidade online, atrair novos clientes e proporcionar uma melhor experiência de navegação aos usuários.
 
 <span id="solucao"> <h2 align="center">🎯Solução Proposta </h2>
-.
+Essa plataforma digital proporcionará uma experiência clara e objetiva, focada em fornecer informações relevantes de maneira acessível e direta, alinhando-se com os objetivos estratégicos da STU.
 
 </p>
 <span id="backlog">
@@ -13,13 +13,11 @@ Título do Projeto: Desenvolvimento de um novo website institucional Objetivo do
 
 | Sprint | Tarefas |  User Story   | Item |  Tempo Estimado   | Status   | Dificuldade | 
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 2 | 1 | Como cliente quero um protótipo inical do meu projeto. | Protótipo | 15h | ❌ | 5 |
-| 3 | 2 | . | . | h | ❌ | 1 |
-| 3 | 3 | . | . | h | ❌ | 1 |
-| 3 | 4 | . | . | h | ❌ | 1 |
-| 3 | 5 | . | . | h | ❌ | 1 |
-| 4 | 6 | . | . | h | ❌ | 1 |
-| 4 | 7 | . | . | h | ❌ | 1 |
+| 2 | 1 | Eu como cliente,, quero um protótipo inical do meu projeto. | Protótipo | 15h | ❌ | 5 |
+| 3 | 2 | Eu como usuário, quero navegar facilmente no site e encontrar informações claras sobre os serviços oferecidos para eu possa decidir se os serviços da STU atendem às minhas necessidades. | Navegação | 5h | ❌ | 1 |
+| 3 | 3 | Eu como cliente, quero acessar uma área dedicada para acompanhar meus pedidos e atualizações sobre os serviços para que eu possa ficar informado sobre o andamento dos projetos sem precisar entrar em contato diretamente com a empresa. | Área de monitoramento | 13h | ❌ | 4 |
+| 3 | 4 | Eu como usuário, quero poder me registrar e fazer login na plataforma para criar e acessar minha conta. | Cadastro de usuário | 10h | ❌ | 3 |
+| 3 | 5 | Eu como usuário visualizar depoimentos e estudos de caso de clientes anteriores para que eu possa avaliar a qualidade e confiabilidade dos serviços da empresa. | Feedbacks de clientes anteriores | 6h | ❌ | 2 |
 
 </span>
 
@@ -73,4 +71,10 @@ Título do Projeto: Desenvolvimento de um novo website institucional Objetivo do
    <img align="left" title="html" height="30px" src="https://github.com/user-attachments/assets/68fcc784-67a1-47c3-bb9a-32b9c29ea5aa"/>
    CSS 
  </p>
- 
+
+ ## 🛜Redes Sociais
+<span id="redes" width="100%" height="auto">
+
+
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Subinoonibus) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vin%C3%ADcius-henrique-souza-4085b1226/)
