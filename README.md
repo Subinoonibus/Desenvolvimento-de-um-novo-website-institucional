@@ -1,4 +1,6 @@
 <span id="topo">
+    
+![Game O (1920 x 640 px)](https://github.com/user-attachments/assets/08706873-7d3f-4215-b510-583c7f314b74)
 
 <p align="center"> <a href="#visao"> Visão geral </a> | <a href="#solucao">Solução proposta</a> | <a href="#backlog">Backlog</a> | <a href="#sprint">Relatório das sprints</a> | <a href="#tecnologia">Tecnologias utilizadas</a> | <a href="#redes">Redes Sociais</a> | </p> <span id="visao"> <h2 align="center"> 🔍Visão geral </h2>
 O projeto consiste na criação de um site institucional moderno e intuitivo para a STU, com o objetivo de aumentar sua visibilidade online, atrair novos clientes e proporcionar uma melhor experiência de navegação aos usuários.
